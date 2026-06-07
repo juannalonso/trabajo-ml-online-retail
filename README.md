@@ -41,7 +41,6 @@ Variable más predictiva: **recency_days** (días desde la última compra).
 ## Contenido del repositorio
 
 - `modelo_recompra_online_retail.ipynb` — Notebook completo (EDA + modelo).
-- `presentacion.pdf` — Presentación de resultados (5 slides).
 - `README.md` — Este archivo.
 
 ## Autor
